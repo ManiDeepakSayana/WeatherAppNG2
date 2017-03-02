@@ -1,4 +1,14 @@
-# material2-app
-Simple app that consumes Angular Material 2 components. Built with the `angular-cli`.
+Built with the `angular-cli`.
 
-See it live: https://material2-app.firebaseapp.com/
+Build & install the dependencies using npm
+
+npm install
+
+Run the App using
+
+npm start
+
+Browse to http://localhost:4200/ to see the app in action.
+
+Thanks,
+ManiDeepak
